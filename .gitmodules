@@ -1,0 +1,6 @@
+[submodule "Arduino/LCD"]
+	path = Arduino/LCD
+	url = https://github.com/firelizzard18/Arduino-LCD-Screen.git
+[submodule "Arduino/TouchPad"]
+	path = Arduino/TouchPad
+	url = https://github.com/firelizzard18/Arduino-Touch-Pad.git
